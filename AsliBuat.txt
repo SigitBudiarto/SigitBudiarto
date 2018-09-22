@@ -1,0 +1,2399 @@
+
+
+-- Hook started
+gg.alert(os.date("🌍Toᴅᴀʏ: %Y/%m/%d \n⏳Tɪᴍᴇ: %H:%M:%S\n\n🔖☰ᴠᴠɪᴘ☰ Lᴀᴛᴇsᴛ vᴇrsɪon: v2\n\n🈷️Fᴏʀ Pᴜʙɢ Mᴏʙɪʟᴇ v.0.8.0\n\n🅾️Yoᴜᴛᴜʙᴇ: GMG SIGI"))
+gg.alert("⚡Tʜᴀɴᴋs for Using Script⚡")
+gg.alert("🆗Work for Emulator, But Without Wallhack!!\n\n🛑Select Memory Ranges to [ᴀɴᴏɴʏᴍᴏᴜs] or [ʙᴀᴅ] To be more optimal.")
+
+function bypass()
+gg.toast("⚠START BYPASS TENCENT LOGO⚠")
+gg.sleep(1000)
+gg.toast("6")
+gg.sleep(1000)
+gg.toast("5")
+gg.sleep(1000)
+gg.toast("4")
+gg.sleep(1000)
+gg.toast("3")
+gg.sleep(1000)
+gg.toast("2")
+gg.sleep(1000)
+gg.toast("1")
+gg.sleep(100)
+gg.toast("⚠BYPASS STARTED⚠")
+gg.toast("New Bypass is working...")
+  gg.alert("Please Set Memory Ranges. To Know what to Select Contact Admin")
+  gg.clearResults()
+  gg.searchNumber("1", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+  gg.searchNumber("1", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+  gg.searchNumber("1", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+  gg.clearResults()
+  gg.searchNumber("1", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+  gg.searchNumber("1", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+  gg.searchNumber("1", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+  gg.clearResults()
+  gg.toast("Injecting ☑")
+  gg.searchNumber("1.2F;1.8F:9::1", gg.TYPE_DOUBLE, false, gg.SIGN_EQUAL, 0, -1)
+  gg.searchNumber("1.1F;1.4F:3::1", gg.TYPE_DOUBLE, false, gg.SIGN_EQUAL, 0, -1)
+  gg.searchNumber("1.1D;1.4D:2::10", gg.TYPE_DOUBLE, false, gg.SIGN_EQUAL, 0, -1)
+  gg.clearResults()
+  gg.searchNumber("5001;1.1;1F::10", gg.TYPE_DOUBLE, false, gg.SIGN_EQUAL, 0, -1)
+  gg.getResults(100)
+  gg.searchNumber("1.2F;1.8F:9::1", gg.TYPE_DOUBLE, false, gg.SIGN_EQUAL, 0, -1)
+  gg.searchNumber("1.1F;1.4F:3::1", gg.TYPE_DOUBLE, false, gg.SIGN_EQUAL, 0, -1)
+  gg.searchNumber("1.1D;1.4D:2::10", gg.TYPE_DOUBLE, false, gg.SIGN_EQUAL, 0, -1)
+  gg.clearResults(850)
+  gg.searchNumber("1.2F;1.8F:9::1", gg.TYPE_DOUBLE, false, gg.SIGN_EQUAL, 0, -1)
+  gg.searchNumber("1.1F;1.4F:3::1", gg.TYPE_DOUBLE, false, gg.SIGN_EQUAL, 0, -1)
+  gg.searchNumber("1.1D;1.4D:2::10", gg.TYPE_DOUBLE, false, gg.SIGN_EQUAL, 0, -1)
+  gg.clearResults()
+  gg.searchNumber("5001;1.1;1F::10", gg.TYPE_DOUBLE, false, gg.SIGN_EQUAL, 0, -1)
+  gg.getResults(100)
+  gg.searchNumber("1.2F;1.8F:9::1", gg.TYPE_DOUBLE, false, gg.SIGN_EQUAL, 0, -1)
+  gg.searchNumber("1.1F;1.4F:3::1", gg.TYPE_DOUBLE, false, gg.SIGN_EQUAL, 0, -1)
+  gg.searchNumber("1.1D;1.4D:2::10", gg.TYPE_DOUBLE, false, gg.SIGN_EQUAL, 0, -1)
+  gg.clearResults(850)
+gg.toast("⚠ BYPASS ACTIVETAD...⚠")
+gg.alert("🔰SIGIT PRODACTION🔰")
+end
+
+function startbypass()
+gg.setVisible(false)
+SG = gg.alert('🛠START BYPASS TENCENT LOGO🛠 ','....❓ What is this?','🆗Start','🔙No')
+if SG == 2 then bypass() end
+if SG == 3 then end
+if SG == 1 then info() end
+end
+
+function info()
+gg.alert('⚠JANGAN SAMPAI LUPA AKTIVIN BYPASS⚠')
+end
+
+startbypass()
+
+function Main()
+
+menu1 = gg.choice({
+"🏹No Recoil",
+"💣️Lobby",
+"🦋WallHack",
+"🌈Color",
+"🎨Color HDR",
+"🎮Game",
+"⭕KONTAK⭕",
+"✖EXIT✖",
+
+  }, nil, "‌🕹️PUBG MOBILE 0.8.0 VIP 🇸‌🇬‌🇹 v1\n🇮🇩YT Channel: GMG SIGIT")
+if menu1 == 1 then A() end
+if menu1 == 2 then B() end
+if menu1 == 3 then C() end
+if menu1 == 4 then D() end
+if menu1 == 5 then E() end
+if menu1 == 6 then F() end
+if menu1 == 7 then CONT() end
+if menu1 == 8 then Exit() end
+XGCK=-10
+end
+
+function A()
+
+menu2 = gg.multiChoice({
+"🐳 No Recoil 「️LOBBY」",
+"🐳 No Recoil 「️LADING」",
+"🐳 No Recoil 「️PICK A GUN」",
+
+"[⏪BACK⏪]"
+}, nill, "🚦NO RECOIL🚦")
+if menu2 == nil then
+else
+if menu2 == 1 then a1() end
+if menu2 == 2 then a2() end
+if menu2 == 3 then a3() end
+
+if menu2 == 4 then Main() end
+end
+XGCK= 1
+end
+
+function a1()
+gg.alert(" Use This Before No Recoil Set Up 2 ")
+gg.toast("⚠Sabar Para Cheater⚠")
+gg.clearResults()
+gg.setRanges(gg.REGION_ANONYMOUS)
+gg.searchNumber("30;0.3;80;25;220::", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("0.3", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(20)
+gg.editAll("400", gg.TYPE_FLOAT)
+gg.toast("No Recoil 1 Activetad...")
+end
+
+function a2()
+gg.alert(" Dont Use This Before Use No Recoil Set Up 1 In Lobby\n\Jangan Bergerak Gerak Biarkan Saja Diam Dulu ")
+gg.toast("⚠Sabar Para Cheater⚠")
+gg.clearResults()
+gg.setRanges(gg.REGION_ANONYMOUS)
+gg.searchNumber("1;10000D;100000", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("1", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(20)
+gg.editAll("0.00100000005", gg.TYPE_FLOAT)
+gg.toast("No Recoil 2 Activetad...")
+end
+
+function a3()
+gg.alert(" Dont Use This Before Set Up 1 & 2 And Take Gun ")
+gg.toast("⚠Sabar Para Cheater⚠")
+gg.clearResults()
+gg.setRanges(gg.REGION_ANONYMOUS)
+gg.searchNumber("0.2~0.3;53;30;1::", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("0.2~0.3;1::", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(200)
+gg.editAll("1.4012985e-45", gg.TYPE_FLOAT)
+gg.toast("No Recoil 3 Activetad...")
+end
+
+
+function B()
+
+menu3 = gg.multiChoice({
+"🐳AIMBOT AUTO HEAD (TEST)",
+"🐳AIMBOT HEAD HUNTER (TEST)",
+"🐳AIMBOT ULTRA (TEST)",
+"🐳AIMBOT MEDIUM (TEST)",
+"🐳AIMBOT WEAK (TEST)",
+"🐳AIMBOT DESTROY (TEST)",
+"🐳Damage Up [Fix]",
+"🐳GOD HEADSHOT VIP",
+"🐳AUTO HS 90%",
+"🐳AUTO HS 80%",
+"🐳AUTO HS 70%",
+"🐳HEAD ONLY",
+"🐳MAGIC BULLET + HS 90%",
+"🐳CROWSING",
+"🐳LONG SHOOT",
+"🐳Small Crosshair",
+
+"[⏪BACK⏪]"
+}, nill, "🚦LOBBY MENU🚦")
+if menu3 == nil then
+else
+if menu3[1] == true then b1() end
+if menu3[2] == true then b2() end
+if menu3[3] == true then b3() end
+if menu3[4] == true then b4() end
+if menu3[5] == true then b5() end
+if menu3[6] == true then b6() end
+if menu3[7] == true then b7() end
+if menu3[8] == true then b8() end
+if menu3[9] == true then b9() end
+if menu3[10] == true then b10() end
+if menu3[11] == true then b11() end
+if menu3[13] == true then b12() end
+if menu3[14] == true then b13() end
+if menu3[15] == true then b14() end
+if menu3[16] == true then b15() end
+
+if menu3[17] == true then Main() end
+end
+XGCK= 1
+end
+
+function b1()
+gg.toast("⚠Sabar Para Cheater⚠")
+gg.clearResults()
+gg.setRanges(32)
+gg.searchNumber("3.5;1;200;20::999", 16, false, 536870912, 0, -1)
+gg.searchNumber("3.5;1;200;20", 16, false, 536870912, 0, -1)
+gg.getResults(400)
+gg.editAll("-1.0e10", 16)
+gg.setRanges(32)
+gg.clearResults()
+gg.toast("AimBot Auto Head Activetad...")
+end
+
+function b2()
+gg.toast("⚠Sabar Para Cheater⚠")
+gg.clearResults()
+gg.setRanges(32)
+gg.searchNumber("3.5;1;200;20::999", 16, false, 536870912, 0, -1)
+gg.searchNumber("3.5;1;200;20", 16, false, 536870912, 0, -1)
+gg.getResults(400)
+gg.editAll("-9999", 16)
+gg.setRanges(32)
+gg.clearResults()
+gg.searchNumber("8;16;18", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(1000)
+gg.editAll("38.5", gg.TYPE_FLOAT)
+gg.clearResults()
+gg.toast("AimBot Auto Head Hunter Activetad...")
+end
+
+function b3()
+gg.toast("⚠Sabar Para Cheater⚠")
+gg.searchNumber("999", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.clearResults()
+gg.setRanges(gg.REGION_ANONYMOUS)
+gg.clearResults()
+gg.toast("Loading.. Sabar dek..")
+gg.clearResults()
+gg.searchNumber("3.5;1;200;20::999", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("3.5;1;200;20", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(300)
+gg.editAll("-1.0e10", gg.TYPE_FLOAT)
+gg.setRanges(gg.REGION_ANONYMOUS)
+gg.clearResults()
+gg.clearResults()
+gg.searchNumber("8;16;18", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("8;16;18", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(1000)
+gg.editAll("65.5", gg.TYPE_FLOAT)
+gg.clearResults()
+gg.toast("AimBot Ultara Activetad...")
+end
+
+function b4()
+gg.toast("⚠Sabar Para Cheater⚠")
+gg.clearResults()
+gg.setRanges(gg.REGION_ANONYMOUS)
+gg.searchNumber("36;1065353216;50528513;1203982336:", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("1065353216", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(10)
+gg.editAll("1,090,519,040", gg.TYPE_DWORD)
+gg.clearResults()
+gg.toast("AimBot Medium Activetad...")
+end
+
+function b5()
+gg.toast("⚠Sabar Para Cheater⚠")
+gg.setRanges(gg.REGION_ANONYMOUS)
+gg.clearResults()
+gg.searchNumber("3.5F;1F;1F;1F;200F;20F:512", gg.TYPE_DWORD, false)
+gg.searchNumber("3.5", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(1995)
+gg.editAll("-995", gg.TYPE_FLOAT)
+gg.clearResults()
+gg.toast("AimBot Weak Activetad...")
+end
+
+function b6()
+gg.toast("⚠Sabar Para Cheater⚠")
+gg.clearResults()
+gg.setRanges(gg.REGION_ANONYMOUS)
+gg.clearResults()
+gg.searchNumber("16F;26F;18F;28F;8F;15F", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(10)
+gg.editAll("155", gg.TYPE_FLOAT)
+gg.clearResults()
+gg.toast("AimBot Destroy Activetad...")
+end
+
+function b7()
+gg.toast("⚠Sabar Para Cheater⚠")
+gg.clearResults()
+gg.setRanges(gg.REGION_ANONYMOUS)
+gg.searchNumber("1F;-8.6457681e12F;15F;28F;16F;26F;8F;18F:512", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("15.0F;28.0F;16.0F;26.0F;8.0F;18.0F:512", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(500)
+gg.editAll("80", gg.TYPE_FLOAT)
+gg.clearResults()
+gg.toast("Damage Up Activetad...")
+end
+
+function b8()
+gg.toast("⚠Sabar Para Cheater⚠")
+gg.setRanges(gg.REGION_BAD)
+gg.searchNumber("-88.66608428955;26:512", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("26", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(50)
+gg.editAll("-460", gg.TYPE_FLOAT)
+gg.clearResults()
+gg.searchNumber("-88.73961639404;28:512", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("28", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(50)
+gg.editAll("-560", gg.TYPE_FLOAT)
+gg.clearResults()
+gg.setRanges(gg.REGION_ANONYMOUS)
+gg.searchNumber("9.201618;30.5;25", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("25;30.5", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(10)
+gg.editAll("238", gg.TYPE_FLOAT)
+gg.clearResults()
+gg.setRanges(gg.REGION_C_BSS)
+gg.searchNumber("2048D;1F", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("1", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(100)
+gg.editAll("0.07", gg.TYPE_FLOAT)
+gg.clearResults()
+gg.toast("God HeadShot VIP Activetad...")
+  gg.alert([[
+ Don't use scope when enemies are nearby on you !!
+
+ Jangan pake scope kalo musuh deket lo !!]])
+end
+
+function b9()
+gg.toast("⚠Sabar Para Cheater⚠")
+gg.clearResults()
+gg.setRanges(gg.REGION_BAD)
+gg.searchNumber("-88.66608428955;26:512", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("26", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(2)
+gg.editAll("-460", gg.TYPE_FLOAT)
+gg.clearResults()
+gg.searchNumber("-88.73961639404;28:512", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("28", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(2)
+gg.editAll("-560", gg.TYPE_FLOAT)
+gg.clearResults()
+gg.setRanges(gg.REGION_ANONYMOUS)
+gg.searchNumber("9.201618;30.5;25", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("25;30.5", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(10)
+gg.editAll("251", gg.TYPE_FLOAT)
+gg.clearResults()
+gg.setRanges(gg.REGION_C_BSS)
+gg.searchNumber("2048D;1F", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("1", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(100)
+gg.editAll("0.07", gg.TYPE_FLOAT)
+gg.clearResults()
+gg.toast("Auto HeadShot 90% Activetad...")
+  gg.alert([[
+ Don't use scope when enemies are nearby on you !!
+
+ Jangan pake scope kalo musuh deket lo !!]])
+end
+
+function b10()
+gg.toast("⚠Sabar Para Cheater⚠")
+gg.clearResults()
+gg.setRanges(gg.REGION_BAD)
+gg.searchNumber("-88.66608428955;26:512", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("26", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(2)
+gg.editAll("460", gg.TYPE_FLOAT)
+gg.clearResults()
+gg.searchNumber("-88.73961639404;28:512", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("28", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(2)
+gg.editAll("560", gg.TYPE_FLOAT)
+gg.clearResults()
+gg.setRanges(gg.REGION_ANONYMOUS)
+gg.searchNumber("9.201618;30.5;25", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("25;30.5", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(10)
+gg.editAll("200", gg.TYPE_FLOAT)
+gg.clearResults()
+gg.setRanges(gg.REGION_ANONYMOUS)
+gg.searchNumber("9.201618;30.5;25", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("25;30.5", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(10)
+gg.editAll("200", gg.TYPE_FLOAT)
+gg.clearResults()
+gg.toast("Auto Headshot 80% Activetad...")
+  gg.alert([[
+ Don't use scope when enemies are nearby on you !!
+
+ Jangan pake scope kalo musuh deket lo !!]])
+end
+
+function b11()
+gg.toast("⚠Sabar Para Cheater⚠")
+gg.clearResults()
+gg.setRanges(gg.REGION_BAD)
+gg.searchNumber("-88.66608428955;26:512", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("26", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(2)
+gg.editAll("-460", gg.TYPE_FLOAT)
+gg.clearResults()
+gg.searchNumber("-88.73961639404;28:512", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("28", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(2)
+gg.editAll("-560", gg.TYPE_FLOAT)
+gg.clearResults()
+gg.setRanges(gg.REGION_ANONYMOUS)
+gg.searchNumber("9.201618;30.5;25", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("25;30.5", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(10)
+gg.editAll("251", gg.TYPE_FLOAT)
+gg.clearResults()
+gg.setRanges(gg.REGION_C_BSS)
+gg.searchNumber("2048D;1F", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("1", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(100)
+gg.editAll("0.07", gg.TYPE_FLOAT)
+gg.clearResults()
+gg.toast("Auto Headsot 70% Activetad...")
+  gg.alert([[
+ Don't use scope when enemies are nearby on you !!
+
+ Jangan pake scope kalo musuh deket lo !!]])
+end
+
+function b12()
+gg.toast("⚠Sabar Para Cheater⚠")
+gg.toast("⚠Sabar Para Cheater⚠")
+gg.setRanges(gg.REGION_BAD)
+gg.searchNumber("-88.66608428955;26:512", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("26", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(50)
+gg.editAll("-460", gg.TYPE_FLOAT)
+gg.clearResults()
+gg.searchNumber("-88.73961639404;28:512", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("28", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(50)
+gg.editAll("-560", gg.TYPE_FLOAT)
+gg.clearResults()
+gg.setRanges(gg.REGION_ANONYMOUS)
+gg.searchNumber("9.201618;30.5;25", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("25;30.5", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(10)
+gg.editAll("89", gg.TYPE_FLOAT)
+gg.clearResults()
+gg.setRanges(gg.REGION_C_BSS)
+gg.searchNumber("2048D;1F", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("1", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(100)
+gg.editAll("0.07", gg.TYPE_FLOAT)
+gg.clearResults()
+gg.toast("Head Only Activetad...")
+  gg.alert([[
+ Don't use scope when enemies are nearby on you !!
+
+ Jangan pake scope kalo musuh deket lo !!]])
+end
+
+function b13()
+gg.toast("⚠Sabar Para Cheater⚠")
+gg.clearResults()
+gg.setRanges(gg.REGION_BAD)
+gg.searchNumber("-88.66608428955;26:512", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("26", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(2)
+gg.editAll("-460", gg.TYPE_FLOAT)
+gg.clearResults()
+gg.searchNumber("-88.73961639404;28:512", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("28", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(2)
+gg.editAll("-560", gg.TYPE_FLOAT)
+gg.clearResults()
+gg.setRanges(gg.REGION_ANONYMOUS)
+gg.searchNumber("9.201618;30.5;25", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("25;30.5", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(10)
+gg.editAll("251", gg.TYPE_FLOAT)
+gg.clearResults()
+gg.setRanges(gg.REGION_C_BSS)
+gg.searchNumber("2048D;1F", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("1", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(100)
+gg.editAll("0.07", gg.TYPE_FLOAT)
+gg.clearResults()
+gg.setVisible(false)
+gg.clearResults()
+gg.setRanges(gg.REGION_ANONYMOUS)
+gg.searchNumber("1F;-8.6457681e12F;15F;28F;16F;26F;8F;18F:512", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("15.0F;28.0F;16.0F;26.0F;8.0F;18.0F:512", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(500)
+gg.editAll("60", gg.TYPE_FLOAT)
+gg.clearResults()
+gg.toast("Magic Bullet + Head 90% Activetad...")
+end
+
+function b14()
+gg.toast("⚠Sabar Para Cheater⚠")
+gg.clearResults()
+gg.searchNumber("1;20.51941871643;2.04908943176;-86.45767974854;-92.2311706543;16.0", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("16", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(200)
+gg.editAll("99", gg.TYPE_FLOAT)
+gg.toast("Crowsing Activetad...")
+end
+
+function b15()
+gg.toast("⚠Sabar Para Cheater⚠")
+gg.clearResults()
+gg.setRanges(gg.REGION_ANONYMOUS)
+gg.searchNumber("1.5584387e28", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("1.5584387e28", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(100)
+gg.editAll("0", gg.TYPE_FLOAT)
+gg.toast("Long Shoot Activetad...")
+end
+
+function b17()
+gg.toast("⚠Sabar Para Cheater⚠")
+gg.setRanges(gg.REGION_ANONYMOUS)
+gg.searchNumber("3.2;1.09375;1::9", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("1", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(200)
+gg.editAll("0", gg.TYPE_FLOAT)
+gg.clearResults()
+gg.toast("Small Crosshair Activetad...")
+end
+
+
+function C()
+
+menu4 = gg.multiChoice({
+"🐳WH Global V1\n\[ LOBBY ]",
+"🐳WH Global V2\n\[ LOBBY ]",
+"🐳WH Mediatek (TEST)\n\[ LOBBY ]",
+"🐳WH Snap 425\n\[ LOBBY ]",
+"🐳WH Snap 435\n\[ LOBBY ]",
+"🐳WH Snap Perfact 625\n\[ LOBBY ]",
+"🐳WH Snap 636\n\[ LOBBY ]",
+"🐳WH Snap Perfact 650\n\[ LOBBY ]",
+"🐳WH Snap Perfact 660\n\[ LOBBY ]",
+"🐳WH Snap 835\n\[ LOBBY ]",
+"🐳WH Snap 845\n\[ LOBBY ]",
+"🐳WH Universal New\n\[ LOBBY ]",
+"🐳WH Universal Snap\n\[ LOBBY ]",
+"🐳WH Kirin\n\[ LOBBY ]",
+"🐳Cars WH\n\[ LOBBY ]",
+
+"[⏪BACK⏪]"
+}, nill, "🚦WALLHACK MENU 🚦")
+if menu4 == nil then
+else
+if menu4[1] == true then c1() end
+if menu4[2] == true then c2() end
+if menu4[3] == true then c3() end
+if menu4[4] == true then c4() end
+if menu4[5] == true then c5() end
+if menu4[6] == true then c6() end
+if menu4[7] == true then c7() end
+if menu4[8] == true then c8() end
+if menu4[9] == true then c9() end
+if menu4[10] == true then c10() end
+if menu4[11] == true then c11() end
+if menu4[12] == true then c12() end
+if menu4[13] == true then c13() end
+if menu4[14] == true then c14() end
+if menu4[15] == true then c15() end
+
+if menu4[16] == true then Main() end
+end
+XGCK= 1
+end
+
+function c1()
+gg.toast("⚠Sabar Para Cheater⚠")
+gg.clearResults()
+gg.setRanges(gg.REGION_BAD)
+gg.searchNumber("4,140D;4.7408166e21;5.6896623e-29;4.7961574e21;3.7615819e-37;2:", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("2", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(3)
+gg.editAll("100", gg.TYPE_FLOAT)
+gg.clearResults()
+gg.searchNumber("200,866D;0.24022650719;0.69314718246;0.00999999978;1;-1;2;-127:", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("2", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(2)
+gg.editAll("100", gg.TYPE_FLOAT)
+gg.clearResults()
+gg.searchNumber("32,770D;0.01799999923;0.29907226562;-1;2:", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("2", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(4)
+gg.editAll("100", gg.TYPE_FLOAT)
+gg.clearResults()
+gg.searchNumber("50,331,648D;0.01799999923;0.29907226562;0.5869140625;0.11401367188;-1;2:", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("-1", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(2)
+gg.editAll("100", gg.TYPE_FLOAT)
+gg.clearResults()
+gg.searchNumber("50,331,648D;0.04000854492;0.11999511719;-0.02749633789;-0.57177734375;-1;2:", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("-1", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(1)
+gg.editAll("100", gg.TYPE_FLOAT)
+gg.clearResults()
+gg.searchNumber("266,400D;0.24022650719;0.69314718246;0.00999999978;1;-1;-127;2:", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("2", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(10)
+gg.editAll("100", gg.TYPE_FLOAT)
+gg.clearResults()
+gg.searchNumber("50,331,648D;0.04000854492;0.11999511719;-0.02749633789;-0.57177734375;-1;2:", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("2", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(2)
+gg.editAll("100", gg.TYPE_FLOAT)
+gg.clearResults()
+gg.searchNumber("4,140D;4.7408149e21;-5.5695588e-40;4.814603e21;3.7615819e-37;2:", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("2", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(20)
+gg.editAll("100", gg.TYPE_FLOAT) 
+gg.toast("WH Global V1 Activetad...")
+end
+
+function c2()
+gg.toast("⚠Sabar Para Cheater⚠")
+gg.clearResults()
+gg.setRanges(gg.REGION_BAD)
+gg.searchNumber("2.718519e-43F;3.7615819e-37F;2.0F;0.00999999978F::200", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("2", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(30)
+gg.editAll("100", gg.TYPE_FLOAT)
+gg.clearResults()
+gg.setRanges(gg.REGION_BAD)
+gg.searchNumber("5.8013756e-42F;-5.5695588e-40F;2.0F::100", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("2", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(30)
+gg.editAll("100", gg.TYPE_FLOAT)
+gg.clearResults()
+gg.setRanges(gg.REGION_BAD)
+gg.searchNumber("9.2432029e-40;1.1079927e-39;2::", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(15)
+gg.editAll("100", gg.TYPE_FLOAT)
+gg.clearResults()
+gg.searchNumber("2.25000166893;2.718519e-43;2::", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(10)
+gg.editAll("100", gg.TYPE_FLOAT)
+gg.toast("WH Global V2 Activetad...")
+end
+
+function c3()
+gg.toast("⚠Sabar Para Cheater⚠")
+gg.setRanges(gg.REGION_ANONYMOUS)
+gg.searchNumber("8E;2.5;6.0255834e-44::150", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("2.5", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(100)
+gg.editAll("-999", gg.TYPE_FLOAT)
+gg.setRanges(gg.REGION_BAD)
+gg.searchNumber("539,246,596;8200D;2.4903147e21F", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("8200", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(3)
+gg.editAll("8300", gg.TYPE_DWORD)
+gg.alert("Izinkan")
+gg.searchNumber("10000;0.5", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("0.5", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(100)
+gg.editAll("0", gg.TYPE_FLOAT)
+gg.toast("WH Mediatek Activetad...")
+end
+
+function c4()
+gg.toast("⚠Sabar Para Cheater⚠")
+gg.clearResults()
+gg.setRanges(gg.REGION_BAD)
+gg.searchNumber("4,141D;4.7408155e21;-5.5693206e-40;4.814603e21;3.7615819e-37;2:", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("2", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(4)
+gg.editAll("120", gg.TYPE_FLOAT)
+gg.clearResults()
+gg.searchNumber("-1.0285578e-38;3.7615819e-37;2;-1;1;-127::300", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("2", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(4)
+gg.editAll("120", gg.TYPE_FLOAT)
+gg.clearResults()
+gg.searchNumber("304.00009155273;3.7615819e-37;2;-1;1;-127::240", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("2", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(4)
+gg.editAll("120", gg.TYPE_FLOAT)
+gg.toast("WH Snap 425 Activetad...")
+end
+
+function c5()
+gg.toast("⚠Sabar Para Cheater⚠")
+gg.clearResults()
+gg.setRanges(gg.REGION_BAD)
+gg.searchNumber("4,141D;4.7408155e21;-5.5693206e-40;4.814603e21;3.7615819e-37;2:", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("2", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(4)
+gg.editAll("120", gg.TYPE_FLOAT)
+gg.clearResults()
+gg.searchNumber("-1.0285578e-38;3.7615819e-37;2;-1;1;-127::300", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("2", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(4)
+gg.editAll("120", gg.TYPE_FLOAT)
+gg.clearResults()
+gg.searchNumber("304.00009155273;3.7615819e-37;2;-1;1;-127::240", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("2", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(4)
+gg.editAll("120", gg.TYPE_FLOAT)
+gg.toast("WH Snap 435 Activetad...")
+end
+
+function c6()
+gg.toast("⚠Sabar Para Cheater⚠")
+gg.clearResults()
+gg.setRanges(gg.REGION_BAD)
+gg.searchNumber("135,215D;4,140D;3.7615819e-37;2::", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("2", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(10)
+gg.editAll("130", gg.TYPE_FLOAT)
+gg.clearResults()
+gg.setRanges(gg.REGION_BAD)
+gg.searchNumber("194D;3.7615819e-37;2;-1;1;-127::", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("2", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(10)
+gg.editAll("130", gg.TYPE_FLOAT)
+gg.clearResults()
+gg.toast("WH Perfact 625 Activetad...")
+end
+
+function c7()
+gg.toast("⚠Sabar Para Cheater⚠")
+gg.clearResults()
+gg.setRanges(gg.REGION_BAD)
+gg.searchNumber("2.718519e-43F;3.7615819e-37F;2.0F;-1.0F;1.0F;-127.0F;0.00999999978F::200", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber(2, gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(30)
+gg.editAll("120", gg.TYPE_FLOAT)
+gg.clearResults()
+gg.searchNumber("5.8013756e-42F;-5.5695588e-40F;2.0F::100", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber(2, gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(30)
+gg.editAll("120", gg.TYPE_FLOAT)
+gg.clearResults()
+gg.toast("WH Snap 636 Activetad...")
+end
+
+function c8()
+gg.toast("⚠Sabar Para Cheater⚠")
+gg.clearResults()
+gg.setRanges(gg.REGION_BAD)
+gg.searchNumber("2.718519e-43F;3.7615819e-37F;2.0F;-1.0F;1.0F;-127.0F;0.00999999978F::200", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber(2, gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(30)
+gg.editAll("120", gg.TYPE_FLOAT)
+gg.clearResults()
+gg.searchNumber("5.8013756e-42F;-5.5695588e-40F;2.0F::100", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber(2, gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(30)
+gg.editAll("120", gg.TYPE_FLOAT)
+gg.clearResults()
+gg.toast("WH Perfact 650 Activetad...")
+end
+
+function c9()
+gg.toast("⚠Sabar Para Cheater⚠")
+gg.clearResults()
+gg.setRanges(gg.REGION_BAD)
+gg.searchNumber("2.718519e-43F;3.7615819e-37F;2.0F;-1.0F;1.0F;-127.0F;0.00999999978F::200", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber(2, gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(30)
+gg.editAll("120", gg.TYPE_FLOAT)
+gg.clearResults()
+gg.searchNumber("5.8013756e-42F;-5.5695588e-40F;2.0F::100", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber(2, gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(30)
+gg.editAll("120", gg.TYPE_FLOAT)
+gg.clearResults() 
+gg.toast("WH Perfact 660 Activetad...")
+end
+
+function c10()
+gg.toast("⚠Sabar Para Cheater⚠")
+gg.clearResults()
+gg.setRanges(gg.REGION_BAD)
+gg.searchNumber("4.7408155e21;2", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("2", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(20)
+gg.editAll("200", gg.TYPE_FLOAT)
+gg.toast("30%%%%")
+gg.clearResults()
+gg.setRanges(gg.REGION_BAD)
+gg.searchNumber("2.25000190735;3.75055122375;2:", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("2", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(50)
+gg.editAll("200", gg.TYPE_FLOAT)
+gg.clearResults()
+gg.toast("30%%%%")
+gg.clearResults()
+gg.setRanges(gg.REGION_BAD)
+gg.searchNumber("3.25000596046;2::", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("2", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(50)
+gg.editAll("200", gg.TYPE_FLOAT)
+gg.toast("WH Snap 835 Activetad...")
+end
+
+function c11()
+gg.toast("⚠Sabar Para Cheater⚠")
+gg.clearResults()
+gg.setRanges(gg.REGION_BAD)
+gg.searchNumber("5.3680222e21;1.3312335e-43;1.3912563e-19;2.0;1.6623075e-19::17", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("2", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(7)
+gg.editAll("120", gg.TYPE_FLOAT)
+gg.clearResults()
+gg.searchNumber("5.201992e21;4.4028356e-29;2.25000452995;2.0;1.6623054e-19::17", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("2", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(10)
+gg.editAll("120", gg.TYPE_FLOAT)
+gg.clearResults()
+gg.searchNumber("2.0;-1.0;0.0;1.0;-127.0;0.24022650719;0.69314718246;0.00999999978::29", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("2", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(11)
+gg.editAll("120", gg.TYPE_FLOAT)
+gg.toast("WallHack 845 Loading！")
+gg.clearResults()
+gg.setRanges(gg.REGION_BAD)
+gg.searchNumber("69,897;102,667;540,673;147,457::", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("147457", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(5201314)
+gg.editAll("98765", gg.TYPE_DWORD)
+gg.toast("WH Snpa 845 Activetad...")
+end
+
+function c12()
+gg.toast("⚠Sabar Para Cheater⚠")
+gg.clearResults()
+gg.setRanges(gg.REGION_BAD)
+gg.searchNumber("2;-1;0;1;-127::", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber(" 2", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(20)
+gg.editAll("20", gg.TYPE_FLOAT)
+gg.clearResults()
+gg.setRanges(gg.REGION_BAD)
+gg.searchNumber("4,141D;4.7408155e21;-5.5693206e-40;4.814603e21;3.7615819e-37;2:", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("2", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(2)
+gg.editAll("100", gg.TYPE_FLOAT)
+gg.clearResults()
+gg.setRanges(gg.REGION_BAD)
+gg.searchNumber("-1.0285578e-38;3.7615819e-37;2;-1;1;-127::300", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("2", gg.TYPE_FLOAT)
+gg.getResults(20)
+gg.editAll("120", gg.TYPE_FLOAT)
+gg.clearResults()
+gg.setRanges(gg.REGION_ANONYMOUS)
+gg.searchNumber("8E;2.5;6.0255834e-44::150", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("2.5", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(100)
+gg.editAll("-999", gg.TYPE_FLOAT)
+gg.clearResults()
+gg.setRanges(gg.REGION_BAD)
+gg.searchNumber("539,246,596;8200D;2.4903147e21F", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("8200", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(3)
+gg.editAll("8300", gg.TYPE_DWORD)
+gg.clearResults()
+gg.clearResults()
+gg.searchNumber("10000;0.5", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("0.5", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(100)
+gg.clearResults()
+gg.editAll("0", gg.TYPE_FLOAT)
+gg.searchNumber("4,141D;4.7408155e21;-5.5693206e-40;4.814603e21;3.7615819e-37;2:", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("2", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(20)
+gg.editAll("100", gg.TYPE_FLOAT)
+gg.clearResults()
+gg.searchNumber("-1.0285578e-38;3.7615819e-37;2;-1;1;-127::300", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("2", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(12)
+gg.editAll("120", gg.TYPE_FLOAT)
+gg.clearResults()
+gg.toast("WH New Universal Activetad...")
+end
+
+function c13()
+gg.toast("⚠Sabar Para Cheater⚠")
+gg.setRanges(gg.REGION_BAD)
+gg.clearResults()
+gg.searchNumber("2.25000190735;3.75055122375;2::", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("2", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(2)
+gg.editAll("120", gg.TYPE_FLOAT)
+gg.clearResults()
+gg.searchNumber("3.25000596046;2::", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("2", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(20)
+gg.editAll("120", gg.TYPE_FLOAT)
+gg.clearResults()
+gg.searchNumber("6.428737e-40;-1.7632433e-38;2", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("2", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(50)
+gg.editAll("1", gg.TYPE_FLOAT)
+gg.clearResults()
+gg.searchNumber("2.8139615e-40;-1.7632429e-38;2", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("2", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(50)
+gg.editAll("80", gg.TYPE_FLOAT)
+gg.clearResults()
+gg.searchNumber("0.5869140625;2.7550649e-40;9.1838299e-41;4.3695775e-29;2", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("2", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(50)
+gg.editAll("120", gg.TYPE_FLOAT)
+gg.clearResults()
+gg.searchNumber("0.04000854492;3.1751651e-29;2", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("2", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(50)
+gg.editAll("80", gg.TYPE_FLOAT)
+gg.clearResults()
+gg.toast("WH Snap Universal Activetad...")
+end
+
+function c14()
+gg.toast("⚠Sabar Para Cheater⚠")
+gg.clearResults()
+gg.setRanges(gg.REGION_BAD)
+gg.searchNumber("2;-1;0;1;-127::", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("2", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(20)
+gg.editAll("20", gg.TYPE_FLOAT)
+gg.clearResults()
+gg.setRanges(gg.REGION_BAD)
+gg.searchNumber("4,141D;4.7408155e21;-5.5693206e-40;4.814603e21;3.7615819e-37;2:", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("2", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(2)
+gg.editAll("100", gg.TYPE_FLOAT)
+gg.clearResults()
+gg.setRanges(gg.REGION_BAD)
+gg.searchNumber("-1.0285578e-38;3.7615819e-37;2;-1;1;-127::300", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("2", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(20)
+gg.editAll("120", gg.TYPE_FLOAT)
+gg.clearResults()
+gg.toast("WH Kirin Activetad...")
+end
+
+function c15()
+gg.toast("⚠Sabar Para Cheater⚠")
+gg.clearResults()
+gg.searchNumber("5.8518224e-42;1.1101534e-19;4.7424002e21;7.8472714e-44;2.8137513e-40;8.3236568e-40;4.5918309e-40;2.0::", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("2", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(2)
+gg.editAll("200", gg.TYPE_FLOAT)
+gg.clearResults()
+gg.setRanges(gg.REGION_BAD)
+gg.searchNumber("1.2218458e-19;2.7550929e-40;288.00006103516;5.8375725e-29;9.18397e-41;3.75000071526;2.5783892e-43;2.0::", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("2", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(2)
+gg.editAll("200", gg.TYPE_FLOAT)
+gg.clearResults()
+gg.searchNumber("4.814603e21;3.5032462e-44;3.7615819e-37;2", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("2", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(30)
+gg.editAll("120", gg.TYPE_FLOAT)
+gg.clearResults()
+gg.searchNumber("-5.5693206e-40;4.814603e21;3.7615819e-37;2", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("2", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(30)
+gg.editAll("120", gg.TYPE_FLOAT)
+gg.clearResults()
+gg.searchNumber("-1.0285578e-38;3.7615819e-37;2", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("2", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(30)
+gg.editAll("120", gg.TYPE_FLOAT)
+gg.clearResults()
+gg.searchNumber("304.00009155273;3.7615819e-37;2", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("2", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(30)
+gg.editAll("120", gg.TYPE_FLOAT)
+gg.clearResults()
+gg.toast("Cars WH Activetad....")
+end
+
+
+function D()
+
+menu5 = gg.multiChoice({
+"🐳Body White [LOBBY]",
+"🐳Body Black [LOBBY]",
+"🐳Body Blue [LOBBY]",
+"🐳Body Red [LOBBY]",
+"🐳Body Green [LOBBY]",
+"🐳Body Yellow [LOBBY]",
+"🐳Body Gradient v1 [LOBBY]",
+"🐳Body Gradient v2 [LOBBY]",
+"🐳Body Rainbow [LOBBY]",
+
+"[⏪BACK⏪]"
+}, nill, "🚦COLORS MENU 🚦")
+if menu5 == nil then
+else
+if menu5[1] == true then d1() end
+if menu5[2] == true then d2() end
+if menu5[3] == true then d3() end
+if menu5[4] == true then d4() end
+if menu5[5] == true then d5() end
+if menu5[6] == true then d6() end
+if menu5[7] == true then d7() end
+if menu5[8] == true then d8() end
+if menu5[9] == true then d9() end
+
+if menu5[10] == true then Main() end
+end
+XGCK= 1
+end
+
+function d1()
+gg.toast("⚠Sabar Para Cheater⚠")
+gg.clearResults()
+gg.setRanges(gg.REGION_ANONYMOUS)
+gg.searchNumber("0.05499718338;1.0", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(100)
+gg.editAll("9999", gg.TYPE_FLOAT)
+gg.toast("Body White Activetad...")
+end
+
+function d2()
+gg.toast("⚠Sabar Para Cheater⚠")
+gg.clearResults()
+gg.setRanges(gg.REGION_ANONYMOUS)
+gg.searchNumber("0.05499718338;1.0", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(100)
+gg.editAll("-9999", gg.TYPE_FLOAT)
+gg.toast("Body Black Activetad...")
+end
+
+function d3()
+gg.toast("⚠Sabar Para Cheater⚠")
+gg.setRanges(gg.REGION_BAD)
+gg.clearResults()
+gg.searchNumber("589826", gg.TYPE_DWORD, false)
+gg.getResults(20050309)
+gg.editAll("666666", gg.TYPE_DWORD)
+gg.toast("Body Blue Activetad...")
+end
+
+function d4()
+gg.toast("⚠Sabar Para Cheater⚠")
+gg.clearResults()
+gg.setRanges(gg.REGION_BAD)
+gg.searchNumber("8,192D;256D;8200D", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("8200", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(20)
+gg.editAll("7", gg.TYPE_DWORD)
+gg.clearResults()
+gg.toast("Body Red Activetad...")
+end
+
+function d5()
+gg.toast("⚠Sabar Para Cheater⚠")
+gg.setRanges(gg.REGION_BAD)
+gg.searchNumber("32,769;-2,134,900,722", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("32769", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(10)
+gg.editAll("32777", gg.TYPE_DWORD)
+gg.clearResults()
+gg.toast("Body Green Activetad...")
+end
+
+function d6()
+gg.toast("⚠Sabar Para Cheater⚠")
+gg.clearResults()
+gg.setRanges(gg.REGION_BAD)
+gg.searchNumber("8196;256;8204;256;8200", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("8200", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(10)
+gg.editAll("390", gg.TYPE_DWORD)
+gg.toast("Body Yellow  Activetad...")
+end
+
+function d7()
+gg.toast("⚠Sabar Para Cheater⚠")
+gg.clearResults()
+gg.setRanges(gg.REGION_BAD)
+gg.searchNumber("538968080D", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("538968080", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(100)
+gg.editAll("-999", gg.TYPE_DWORD)
+gg.clearResults()
+gg.toast("Body Gradient v1 Activetad...")
+end
+
+function d8()
+gg.toast("⚠Sabar Para Cheater⚠")
+gg.clearResults()
+gg.setRanges(gg.REGION_BAD)
+gg.searchNumber("1,669,433,347", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(1000)
+gg.editAll("99999999", gg.TYPE_DWORD)
+gg.clearResults()
+gg.toast("Body Gradient v2 Activetad...")
+end
+
+function d9()
+gg.toast("⚠Sabar Para Cheater⚠")
+gg.clearResults()
+gg.setRanges(gg.REGION_BAD)
+gg.searchNumber("1,080,035,591D;196,617D;2.2509765625F::", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("1,080,035,591", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(10)
+gg.editAll("1,00,035,591", gg.TYPE_DWORD)
+gg.clearResults()
+gg.toast("Body Rainbow Activetad...")
+end
+
+
+function E()
+
+menu6 = gg.multiChoice({
+"🐳Glow Blue HDR\n\[ LOBBY ]",
+"🐳Glow Red HDR\n\[ LOBBY ]",
+"🐳Diamond Blue HDR\n\[ LOBBY ]",
+"🐳Diamond Blue Toschs HDR\n\[ LOBBY ]",
+"🐳Diamond Yellow HDR\n\[ LOBBY ]",
+"🐳Diamond Violet HDR\n\[ LOBBY ]",
+"🐳Diamond Gradient HDR\n\[ LOBBY ]",
+"🐳Acid HDR\n\[ LOBBY ]",
+"🐳White V1 HDR\n\[ LOBBY ]",
+"🐳White V2 HDR\n\[ LOBBY ]",
+"🐳Black HDR\n\[ LOBBY ]",
+"🐳Red V1 HDR\n\[ LOBBY ]",
+"🐳Red V2 HDR\n\[ LOBBY ]",
+"🐳Green HDR\n\[ LOBBY ]",
+
+"[⏪BACK⏪]"
+}, nill, "🚦WALLHACK MENU 🚦")
+if menu6 == nil then
+else
+if menu6[1] == true then e1() end
+if menu6[2] == true then e2() end
+if menu6[3] == true then e3() end
+if menu6[4] == true then e4() end
+if menu6[5] == true then e5() end
+if menu6[6] == true then e6() end
+if menu6[7] == true then e7() end
+if menu6[8] == true then e8() end
+if menu6[9] == true then e9() end
+if menu6[10] == true then e10() end
+if menu6[11] == true then e11() end
+if menu6[12] == true then e12() end
+if menu6[13] == true then e13() end
+if menu6[14] == true then e14() end
+
+if menu6[15] == true then Main() end
+end
+XGCK= 1
+end
+
+function e1()
+gg.toast("⚠Sabar Para Cheater⚠")
+gg.setRanges(gg.REGION_BAD)
+gg.clearResults()
+gg.searchNumber("1,661,337,615D;8,200D;1,194,380,049D:9", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("8200", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(30)
+gg.editAll("8237", gg.TYPE_DWORD)
+gg.clearResults()
+gg.toast("Glow Blue HDR Activetad...")
+end
+
+function e2()
+gg.toast("⚠Sabar Para Cheater⚠")
+gg.setRanges(gg.REGION_BAD)
+gg.clearResults()
+gg.searchNumber("1,661,337,615D;8,200D;1,194,380,049D:9", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("8200", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(30)
+gg.editAll("8239", gg.TYPE_DWORD)
+gg.clearResults()
+gg.toast("Glow Red HDR Activetad...")
+end
+
+function e3()
+gg.toast("⚠Sabar Para Cheater⚠")
+gg.setRanges(gg.REGION_BAD)
+gg.clearResults()
+gg.searchNumber("1,661,337,615D;8,200D;1,194,380,049D:9", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("8200", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(30)
+gg.editAll("66", gg.TYPE_DWORD)
+gg.clearResults()
+gg.toast("Diamond Blue HDR Activetad...")
+end
+
+function e4()
+gg.toast("⚠Sabar Para Cheater⚠")
+gg.setRanges(gg.REGION_BAD)
+gg.clearResults()
+gg.searchNumber("1,661,337,615D;8,200D;1,194,380,049D:9", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("8200", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(30)
+gg.editAll("67", gg.TYPE_DWORD)
+gg.clearResults()
+gg.toast("Diamond Blue Toschs HDR Activetad...")
+end
+
+function e5()
+gg.toast("⚠Sabar Para Cheater⚠")
+gg.clearResults()
+gg.searchNumber("1,661,337,615D;8,200D;1,194,380,049D:9", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("8200", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(30)
+gg.editAll("65", gg.TYPE_DWORD)
+gg.clearResults()
+gg.toast("Diamond Yellow HDR Activetad...")
+end
+
+function e6()
+gg.toast("⚠Sabar Para Cheater⚠")
+gg.setRanges(gg.REGION_BAD)
+gg.clearResults()
+gg.searchNumber("1,661,337,615D;8,200D;1,194,380,049D:9", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("8200", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(30)
+gg.editAll("69", gg.TYPE_DWORD)
+gg.clearResults()
+gg.toast("Diamond Violet HDR Activetad...")
+end
+
+function e7()
+gg.toast("⚠Sabar Para Cheater⚠")
+gg.setRanges(gg.REGION_BAD)
+gg.clearResults()
+gg.searchNumber("1,661,337,615D;8,200D;1,194,380,049D:9", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("8200", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(30)
+gg.editAll("74", gg.TYPE_DWORD)
+gg.clearResults()
+gg.toast("Diamond Gradient HDR Activetad...")
+end
+
+function e8()
+gg.toast("⚠Sabar Para Cheater⚠")
+gg.setRanges(gg.REGION_BAD)
+gg.clearResults()
+gg.searchNumber("1,661,337,615D;8,200D;1,194,380,049D:9", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("8200", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(30)
+gg.editAll("70", gg.TYPE_DWORD)
+gg.clearResults()
+gg.toast("Acid HDR Activetad...")
+end
+
+function e9()
+gg.toast("⚠Sabar Para Cheater⚠")
+gg.clearResults()
+gg.setRanges(gg.REGION_BAD)
+gg.searchNumber("1,661,337,615D;8,200D;1,194,380,049D:9", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("8200", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(30)
+gg.editAll("-3", gg.TYPE_DWORD)
+gg.clearResults()
+gg.toast("White V1 HDR Activetad...")
+end
+
+function e10()
+gg.toast("⚠Sabar Para Cheater⚠")
+gg.clearResults()
+gg.setRanges(gg.REGION_BAD)
+gg.searchNumber("1,661,337,615D;8,200D;1,194,380,049D:9", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("8200", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(30)
+gg.editAll("74", gg.TYPE_DWORD)
+gg.clearResults()
+gg.toast("White V2 HDR Activetad...")
+end
+
+function e11()
+gg.toast("⚠Sabar Para Cheater⚠")
+gg.clearResults()
+gg.setRanges(gg.REGION_BAD)
+gg.searchNumber("1,661,337,615D;8,200D;1,194,380,049D:9", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("8200", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(30)
+gg.editAll("635", gg.TYPE_DWORD)
+gg.clearResults()
+gg.toast("Black HDR Activetad...")
+end
+
+function e12()
+gg.toast("⚠Sabar Para Cheater⚠")
+gg.setRanges(gg.REGION_BAD)
+gg.clearResults()
+gg.searchNumber("1,661,337,615D;8,200D;1,194,380,049D:9", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("8200", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(30)
+gg.editAll("8231", gg.TYPE_DWORD)
+gg.clearResults()
+gg.toast("Red V1 HDR Activetad...")
+end
+
+function e13()
+gg.toast("⚠Sabar Para Cheater⚠")
+gg.setRanges(gg.REGION_BAD)
+gg.clearResults()
+gg.searchNumber("1,661,337,615D;8,200D;1,194,380,049D:9", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("8200", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(30)
+gg.editAll("71", gg.TYPE_DWORD)
+gg.clearResults()
+gg.toast("Red V2 HDR Activetad...")
+end
+
+function e14()
+gg.toast("⚠Sabar Para Cheater⚠")
+gg.setRanges(gg.REGION_BAD)
+gg.clearResults()
+gg.searchNumber("1,661,337,615D;8,200D;1,194,380,049D:9", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("8200", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(30)
+gg.editAll("8230", gg.TYPE_DWORD)
+gg.clearResults()
+gg.toast("Green HDR Activetad...")
+end
+
+
+function F()
+
+menu7 = gg.multiChoice({
+"🔖Antena [MENU]",
+"🔖View [MENU]",
+"🔖Gun & Zoom [MENU]",
+"🔖Menu [GAME]",
+"🔖Jeep Hack [MENU]",
+
+"[⏪BACK⏪]"
+}, nill, "🚦GAME MENU🚦")
+if menu7 == nil then
+else
+if menu7[1] == true then G() end
+if menu7[2] == true then H() end
+if menu7[3] == true then I() end
+if menu7[4] == true then J() end
+if menu7[5] == true then K() end
+
+if menu7[6] == true then Main() end
+end
+XGCK= 1
+end
+
+
+function G()
+
+menu8 = gg.multiChoice({
+"🐳Antena Always",
+"🐳Antena Sit Stading",
+"🐳Antena Run Side v1",
+"🐳Antena Run Side v2",
+"🐳Antena Prone",
+"🐳Antena Bug Goods Used",
+
+"[⏪BACK⏪]"
+}, nill, "🚦ANTENA MENU 🚦")
+if menu8 == nil then
+else
+if menu8[1] == true then f1() end
+if menu8[2] == true then f2() end
+if menu8[3] == true then f3() end
+if menu8[4] == true then f4() end
+if menu8[5] == true then f5() end
+if menu8[6] == true then f6() end
+
+if menu8[7] == true then F() end
+end
+XGCK= 1
+end
+
+function f1()
+gg.toast("⚠Sabar Para Cheater⚠")
+gg.setRanges(gg.REGION_ANONYMOUS)
+gg.clearResults()
+gg.searchNumber("0.53446006775F;-1.68741035461F:501", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("-1.68741035461", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(1995)
+gg.editAll("19995", gg.TYPE_FLOAT)
+gg.clearResults()
+gg.searchNumber("18.38612365723F;0.54026412964F:5", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("18.38612365723F;0.54026412964F:5", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(1995)
+gg.editAll("19995", gg.TYPE_FLOAT)
+gg.clearResults()
+gg.toast("Working 50%...")
+gg.clearResults()
+gg.setRanges(gg.REGION_ANONYMOUS)
+gg.searchNumber("18.38613319397F;0.53447723389F;3.42665576935F", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("18.38613319397;0.53447723389;3.42665576935", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(10)
+gg.editAll("9999", gg.TYPE_FLOAT)
+gg.clearResults()
+gg.toast("Antena Always Activetad...")
+end
+
+function f2()
+gg.toast("⚠Sabar Para Cheater⚠")
+gg.setRanges(gg.REGION_ANONYMOUS)
+gg.clearResults()
+gg.searchNumber("0.53446006775F;-1.68741035461F:501", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("-1.68741035461", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(1995)
+gg.editAll("19995", gg.TYPE_FLOAT)
+gg.clearResults()
+gg.searchNumber("18.38612365723F;0.54026412964F:5", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("18.38612365723F;0.54026412964F:5", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(1995)
+gg.editAll("19995", gg.TYPE_FLOAT)
+gg.clearResults()
+gg.toast("Antena Sit Stading Activetad...")
+end
+
+function f3()
+gg.toast("⚠Sabar Para Cheater⚠")
+gg.clearResults()
+gg.setRanges(gg.REGION_ANONYMOUS)
+gg.searchNumber("18.38613319397F;0.53447723389F;3.42665576935F", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("18.38613319397;0.53447723389;3.42665576935", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(10)
+gg.editAll("9999", gg.TYPE_FLOAT)
+gg.clearResults()
+gg.toast("Antena Run Side v1 Activetad...")
+end
+
+function f4()
+gg.toast("⚠Sabar Para Cheater⚠")
+gg.clearResults()
+gg.setRanges(gg.REGION_ANONYMOUS)
+gg.searchNumber("18.38613319397F;0.53447723389F;3.42665576935F", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("18.38613319397;0.53447723389;3.42665576935", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(10)
+gg.editAll("9999", gg.TYPE_FLOAT)
+gg.clearResults()
+gg.toast("Antena Run Side v2 Activetad...")
+end
+
+function f5()
+gg.toast("⚠Sabar Para Cheater⚠")
+gg.clearResults(850)
+gg.toast("Antenna is Processing Now....")
+gg.searchNumber("0.9378669858F;1.0F;0.61365610361F::55", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("1", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(850)
+gg.editAll("3500", gg.TYPE_FLOAT)
+gg.toast("Antena Prone Activetad...")
+end
+
+function f6()
+gg.toast("⚠Sabar Para Cheater⚠")
+gg.setRanges(gg.REGION_BAD)
+gg.searchNumber("7.1689529418945", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(3)
+gg.editAll("999999999", gg.TYPE_FLOAT)
+gg.clearResults()
+gg.setRanges(gg.REGION_BAD)
+gg.searchNumber("3.4779739379883;2.8345839977264;3.1967880725861;3.8841888904572;3.1528658866882::208", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("3.4779739379883", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(1)
+gg.editAll("003,005,0", gg.TYPE_FLOAT)
+gg.clearResults()
+gg.setRanges(gg.REGION_BAD)
+gg.searchNumber("7.4993133544922", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("7.4993133544922", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(1)
+gg.editAll("999", gg.TYPE_FLOAT)
+gg.clearResults()
+gg.setRanges(gg.REGION_BAD)
+gg.searchNumber("0.73620933294296", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(3)
+gg.editAll("999999999", gg.TYPE_FLOAT)
+gg.toast("Antena Bug Activetad...")
+end
+
+function H()
+
+menu9 = gg.multiChoice({
+"🐳No Grass",
+"🐳No Grass + No Tree",
+"🐳No Grass + Tree + House",
+"🐳Black Sky PUBG 8.0",
+"🐳White Sky PUBG 8.0",
+"🐳Clear Sky PUBG 8.0",
+"🐳Visual Lift On",
+"🐳Sit Scop On",
+"🐳Sit Scop Off",
+"🐳Sit Look Over The Air On",
+"🐳Sit Look Over The Air Off",
+"🐳Sit Look Underground On",
+"🐳Sit Look Underground Off",
+"🐳Up Scop New (TEST)",
+"🐳No Foot Step",
+"🐳Snow Land",
+"🐳Drack Land",
+"🐳Black Land",
+"🐳White Land",
+
+
+"[⏪BACK⏪]"
+}, nill, "🚦VIEW MENU 🚦")
+if menu8 == nil then
+else
+if menu9[1] == true then g1() end
+if menu9[2] == true then g2() end
+if menu9[3] == true then g3() end
+if menu9[4] == true then g4() end
+if menu9[5] == true then g5() end
+if menu9[6] == true then g6() end
+if menu9[7] == true then g7() end
+if menu9[8] == true then g8() end
+if menu9[9] == true then g9() end
+if menu9[10] == true then g20() end
+if menu9[11] == true then g21() end
+if menu9[12] == true then g22() end
+if menu9[13] == true then g23() end
+if menu9[14] == true then g14() end
+if menu9[15] == true then g15() end
+if menu9[16] == true then g16() end
+if menu9[17] == true then g17() end
+if menu9[18] == true then g18() end
+if menu9[19] == true then g19() end
+
+if menu9[20] == true then F() end
+end
+XGCK= 1
+end
+
+function g1()
+gg.toast("⚠Sabar Para Cheater⚠")
+gg.clearResults()
+gg.setRanges(gg.REGION_BAD)
+gg.searchNumber("2;-1;1;10000;-127::32", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("2", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(10)
+gg.editAll("0", gg.TYPE_FLOAT)
+gg.toast("No Grass Activetad...")
+end
+
+function g2()
+gg.toast("⚠Sabar Para Cheater⚠")
+gg.clearResults()
+gg.setRanges(gg.REGION_ANONYMOUS)
+gg.searchNumber("8.0F;1.20000004768F;0.80000001192F;1.5F;0.80000001192F;1.5F::512", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("8.0", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(300)
+gg.editAll("0", gg.TYPE_FLOAT)
+gg.clearResults()
+gg.setRanges(gg.REGION_BAD)
+gg.searchNumber("4.8883906e21", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("4.8883906e21", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(100)
+gg.editAll("4.8883906e20", gg.TYPE_FLOAT)
+gg.clearResults()
+gg.toast(" No Grass + No Tree Activetad...")
+end
+
+function g3()
+gg.toast("⚠Sabar Para Cheater⚠")
+gg.clearResults()
+gg.setRanges(gg.REGION_C_BSS)
+gg.searchNumber("2048D;4D;1F;1F;1D:17", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("1", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(100)
+gg.addListItems({ -- table(c360c89)
+})
+gg.clearResults()
+gg.toast("No Grass + Tree + House Activetad...")
+end
+
+function g4()
+gg.toast("⚠Sabar Para Cheater⚠")
+gg.setRanges(gg.REGION_BAD)
+gg.searchNumber("100F;1F;1,008,981,770D:99", gg.TYPE_FLOAT, false)
+gg.searchNumber("100", gg.TYPE_FLOAT, false)
+gg.getResults(100)
+gg.editAll("-99", gg.TYPE_FLOAT)
+gg.clearResults()
+gg.toast("Black Sky Activetad...")
+end
+
+function g5()
+gg.toast("⚠Sabar Para Cheater⚠")
+gg.clearResults()
+gg.setRanges(gg.REGION_BAD)
+gg.searchNumber("1.5;0.69773697853;0.16513200104", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("1.5", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(5)
+gg.editAll("-99", gg.TYPE_FLOAT)
+gg.clearResults()
+gg.toast("White Sky Activetad...")
+end
+
+function g6()
+gg.toast("⚠Sabar Para Cheater⚠")
+gg.clearResults()
+gg.setRanges(gg.REGION_BAD)
+gg.clearResults()
+gg.searchNumber("100F;1F;1,008,981,770D:99", gg.TYPE_FLOAT, false)
+gg.searchNumber("100", gg.TYPE_FLOAT, false)
+gg.getResults(100)
+gg.editAll("99999", gg.TYPE_FLOAT)
+gg.clearResults()
+gg.setRanges(gg.REGION_ANONYMOUS)
+gg.toast("Clear Sky Activetad...")
+end
+
+function g7()
+gg.toast("⚠Sabar Para Cheater⚠")
+gg.clearResults()
+gg.setRanges(gg.REGION_ANONYMOUS)
+gg.searchNumber("1 152 319 488D;1 036 831 949D;1 148 846 080D;1 118 830 592D;60F;1 112 014 848D::25", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("60", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(100)
+gg.editAll("-330", gg.TYPE_FLOAT)
+gg.clearResults()
+gg.toast("Visual Lift On Activetad...")
+end
+
+function g8()
+gg.toast("⚠Sabar Para Cheater⚠")
+gg.clearResults()
+gg.setRanges(gg.REGION_ANONYMOUS)
+gg.searchNumber("1,092,081,726;1,003,658,240;923,795,456", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("1,092,081,726", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(100)
+gg.editAll("1,135,081,726", gg.TYPE_DWORD)
+gg.clearResults()
+gg.toast("Sit Scop On Activetad...")
+end
+
+function g9()
+gg.toast("⚠Sabar Para Cheater⚠")
+gg.clearResults()
+gg.setRanges(gg.REGION_ANONYMOUS)
+gg.searchNumber("1,135,081,726;1,003,658,240;923,795,456", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("1,135,081,726", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(50)
+gg.editAll("1,092,081,726", gg.TYPE_DWORD)
+gg.clearResults()
+gg.toast("Sit Scop Off Activetad...")
+end
+
+function g20()
+gg.toast("⚠Sabar Para Cheater⚠")
+gg.clearResults()
+gg.setRanges(gg.REGION_ANONYMOUS)
+gg.searchNumber("1 152 319 488D;1 036 831 949D;1 148 846 080D;1 118 830 592D;60F;1 112 014 848D::25", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("60", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(100)
+gg.editAll("-500", gg.TYPE_FLOAT)
+gg.clearResults()
+gg.toast("Sit Look Over The Air On Activetad...")
+end
+
+function g21()
+gg.toast("⚠Sabar Para Cheater⚠")
+gg.clearResults()
+gg.setRanges(gg.REGION_ANONYMOUS)
+gg.searchNumber("1 152 319 488D;1 036 831 949D;1 148 846 080D;1 118 830 592D;-500F;1 112 014 848D::25", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("-500", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(100)
+gg.editAll("60", gg.TYPE_FLOAT)
+gg.clearResults()
+gg.toast("Sit Look Over The Air Off Activetad...")
+end
+
+function g22()
+gg.toast("⚠Sabar Para Cheater⚠")
+gg.clearResults()
+gg.setRanges(gg.REGION_ANONYMOUS)
+gg.searchNumber("1 152 319 488D;1 036 831 949D;1 148 846 080D;1 118 830 592D;60F;1 112 014 848D::25", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("60", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(100)
+gg.editAll("500", gg.TYPE_FLOAT)
+gg.clearResults()
+gg.toast("Sit Look Underground OnActivetad...")
+end
+
+function g23()
+gg.toast("⚠Sabar Para Cheater⚠")
+gg.clearResults()
+gg.setRanges(gg.REGION_ANONYMOUS)
+gg.searchNumber("1 152 319 488D;1 036 831 949D;1 148 846 080D;1 118 830 592D;500F;1 112 014 848D::25", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("500", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(100)
+gg.editAll("60", gg.TYPE_FLOAT)
+gg.clearResults()
+gg.toast("Sit Look Underground Off Activetad...")
+end
+
+function g14()
+gg.toast("⚠Sabar Para Cheater⚠")
+gg.clearResults()
+gg.setRanges(gg.REGION_ANONYMOUS)
+gg.searchNumber("10;50;40,000.0;40", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("40", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(25)
+gg.editAll("980", gg.TYPE_FLOAT)
+gg.toast("Up Scop Activetad...")
+end
+
+function g15()
+gg.toast("⚠Sabar Para Cheater⚠")
+gg.clearResults()
+gg.setRanges(gg.REGION_ANONYMOUS)
+gg.searchNumber("2D;256D;256D;0.96666663885117;256D", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("0.96666663885117", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(3)
+gg.editAll("999.9949", gg.TYPE_FLOAT)
+gg.clearResults()
+gg.toast("No Foot Step Activetad...")
+end
+
+function g16()
+gg.toast("⚠Sabar Para Cheater⚠")
+gg.setRanges(gg.REGION_C_ALLOC)
+gg.clearResults()
+gg.searchNumber("4.4841551e-44;1.0;1.0;1.0;1.0;4.6242849e-44:25", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("1", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(20)
+gg.editAll("9", gg.TYPE_FLOAT)
+gg.clearResults()
+gg.toast("Snow Land Activetad...")
+end
+
+function g17()
+gg.toast("⚠Sabar Para Cheater⚠")
+gg.setRanges(gg.REGION_C_ALLOC)
+gg.clearResults()
+gg.searchNumber("3.9236357e-44;4.0637655e-44;2.0;4.2038954e-44::49", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("2", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(20)
+gg.editAll("99", gg.TYPE_FLOAT)
+gg.clearResults()
+gg.toast("Drack Land Activetad...")
+end
+
+function g18()
+gg.toast("⚠Sabar Para Cheater⚠")
+gg.clearResults()
+gg.setRanges(gg.REGION_BAD)
+gg.searchNumber("3.75000119209;2;2.00000023842;2.00000047684;2.7506108284;3", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("3", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(30)
+gg.editAll("888", gg.TYPE_FLOAT)
+gg.toast("Black Land Activetad...")
+end
+
+function g19()
+gg.toast("⚠Sabar Para Cheater⚠")
+gg.clearResults()
+gg.setRanges(gg.REGION_BAD)
+gg.searchNumber("3.75000119209;2;2.00000023842;2.00000047684;2.7506108284;3", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("3", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(30)
+gg.editAll("417", gg.TYPE_FLOAT)
+gg.toast("White Land Activetad...")
+end
+
+
+function I()
+
+MENU7 = gg.multiChoice({
+"🐳Speed Open Scop",
+"🐳Speed M416",
+"🐳Speed Scar",
+"🐳Speed AKM",
+"🐳Speed M16",
+"🐳Speed AWM",
+"🐳Kar 98 Power Shot",
+"🐳M24 Power Shot",
+"🐳Kar 98 Power Shot V2",
+"🐳Firing Rate All AR",
+"🐳Firing Rate All SMG",
+"🐳Zoom ×4 On",
+"🐳Zoom ×4 Off",
+"🐳Zoom ×8 On",
+"🐳Zoom ×8 Off",
+"🐳Zoom ×15 On",
+"🐳Zoom ×15 Off",
+"🐳Signal Gun Positioning",
+"🐳White Landscape",
+"🐳Black Landscape",
+
+
+'   [⏪BACK⏪]   '
+}, nill, "🚦GUN & ZOOM MENU 🚦")
+if MENU7 == nil then
+else
+if MENU7[1] == true then sop() end
+if MENU7[2] == true then sm4() end
+if MENU7[3] == true then ss() end
+if MENU7[4] == true then sa() end
+if MENU7[5] == true then sm1() end
+if MENU7[6] == true then sam() end
+if MENU7[7] == true then kps() end
+if MENU7[8] == true then mps() end
+if MENU7[9] == true then kps2() end
+if MENU7[10] == true then fra() end
+if MENU7[11] == true then frs() end
+if MENU7[12] == true then h1() end
+if MENU7[13] == true then h7() end
+if MENU7[14] == true then h2() end
+if MENU7[15] == true then h8() end
+if MENU7[16] == true then h3() end
+if MENU7[17] == true then h9() end
+if MENU7[18] == true then h4() end
+if MENU7[19] == true then h5() end
+if MENU7[20] == true then h6() end
+
+if MENU7[21] == true then F() end
+end
+XGCK = 1
+end
+
+function sop()
+gg.toast("⚠Sabar Para Cheater⚠")
+gg.clearResults()
+gg.setRanges(gg.REGION_ANONYMOUS)
+gg.searchNumber("76000", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResultCount()
+gg.searchNumber("76000", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResultCount()
+gg.getResults(100)
+gg.getResults(100)
+gg.editAll("500000", gg.TYPE_FLOAT)
+gg.clearResults()
+gg.toast("Speed Open Scope Active")
+end
+
+function sm4()
+gg.toast("⚠Sabar Para Cheater⚠")
+gg.clearResults()
+gg.setRanges(gg.REGION_ANONYMOUS)
+gg.searchNumber("30D;10D;0F~1F;257D;3D::17", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("0.08600000292", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(50)
+gg.editAll("0.04200000272", gg.TYPE_FLOAT)
+gg.toast("Speed M416 Active")
+end
+
+function ss()
+gg.toast("⚠Sabar Para Cheater⚠")
+gg.setRanges(gg.REGION_ANONYMOUS)
+gg.searchNumber("30D;10D;0F~1F;257D;3D::17", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("0.09600000083", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(50)
+gg.editAll("0.04800000022", gg.TYPE_FLOAT)
+gg.toast("Speed SCAR Active")
+end
+
+function sa()
+gg.toast("⚠Sabar Para Cheater⚠")
+gg.clearResults()
+gg.setRanges(gg.REGION_ANONYMOUS)
+gg.searchNumber("30D;10D;0F~1F;257D;3D::17", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("0.10000000149", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(50)
+gg.editAll("0.001", gg.TYPE_FLOAT)
+gg.toast("Speed AKM Active")
+end
+
+function sm1()
+gg.toast("⚠Sabar Para Cheater⚠")
+gg.clearResults()
+gg.setRanges(gg.REGION_ANONYMOUS)
+gg.searchNumber("90000", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(100)
+gg.editAll("500000", gg.TYPE_FLOAT)
+gg.clearResults()
+gg.toast("Speed M16 Active")
+end
+
+function sam()
+gg.toast("⚠Sabar Para Cheater⚠")
+gg.clearResults()
+gg.setRanges(gg.REGION_ANONYMOUS)
+gg.searchNumber("91000", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(100)
+gg.editAll("500000", gg.TYPE_FLOAT)
+gg.clearResults()
+gg.toast("Speed AWM Active")
+end
+
+function kps()
+gg.toast("⚠Sabar Para Cheater⚠")
+gg.clearResults()
+gg.setRanges(gg.REGION_ANONYMOUS)
+gg.searchNumber("76000", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(100)
+gg.editAll("500000", gg.TYPE_FLOAT)
+gg.clearResults()
+gg.toast("Speed KAR98 Active")
+end
+
+function mps()
+gg.toast("⚠Sabar Para Cheater⚠")
+gg.clearResults()
+gg.setRanges(gg.REGION_ANONYMOUS)
+gg.searchNumber("79000", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(100)
+gg.editAll("500000", gg.TYPE_FLOAT)
+gg.clearResults()
+gg.toast("Speed M24 Active")
+end
+
+function kps2()
+gg.toast("⚠Sabar Para Cheater⚠")
+gg.clearResults()
+gg.setRanges(gg.REGION_ANONYMOUS)
+gg.searchNumber("76000", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(10)
+gg.editAll("200000", gg.TYPE_FLOAT)
+gg.clearResults()
+gg.toast("Kar98 PowerShot V2 Active")
+end
+
+function fra()
+gg.toast("⚠Sabar Para Cheater⚠")
+gg.toast("Firing Rate ARROW is Working...")
+gg.clearResults()
+gg.setRanges(gg.REGION_BAD)
+gg.searchNumber("16000", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(100)
+gg.editAll("200000", gg.TYPE_FLOAT)
+gg.clearResults()
+gg.toast("Firing Rate ALL AR Done")
+end
+
+function frs()
+gg.toast("⚠Sabar Para Cheater⚠")
+gg.toast("Firing Rate All SMG is Working...")
+gg.clearResults()
+gg.setRanges(gg.REGION_ANONYMOUS)
+gg.searchNumber("40000", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(800)
+gg.editAll("500000", gg.TYPE_FLOAT)
+gg.clearResults()
+gg.toast("Firing Rate ALL SMG Done")
+end
+
+function h1()
+gg.toast("⚠Sabar Para Cheater⚠")
+gg.clearResults()
+gg.setRanges(gg.REGION_ANONYMOUS)
+gg.searchNumber("60;55;1.9618179e-44 ", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("55", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(300)
+gg.editAll("20", gg.TYPE_FLOAT)
+gg.clearResults()
+gg.toast("Zoom ×4 Activetad...")
+end
+
+function h7()
+gg.toast("⚠Sabar Para Cheater⚠")
+gg.clearResults()
+gg.setRanges(gg.REGION_ANONYMOUS)
+gg.searchNumber("60;20;1.9618179e-44 ", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("20", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(300)
+gg.editAll("55", gg.TYPE_FLOAT)
+gg.clearResults()
+gg.toast("Zoom ×4 Off Activetad...")
+end
+
+function h2()
+gg.toast("⚠Sabar Para Cheater⚠")
+gg.clearResults()
+gg.setRanges(gg.REGION_ANONYMOUS)
+gg.searchNumber("60;55;1.9618179e-44 ", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("55", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(300)
+gg.editAll("15", gg.TYPE_FLOAT)
+gg.clearResults()
+gg.toast("Zoom ×8 Activetad...")
+end
+
+function h8()
+gg.toast("⚠Sabar Para Cheater⚠")
+gg.clearResults()
+gg.setRanges(gg.REGION_ANONYMOUS)
+gg.searchNumber("60;15;1.9618179e-44 ", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("15", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(300)
+gg.editAll("55", gg.TYPE_FLOAT)
+gg.clearResults()
+gg.toast("Zoom ×8 Off Activetad...")
+end
+
+function h3()
+gg.toast("⚠Sabar Para Cheater⚠")
+gg.clearResults()
+gg.setRanges(gg.REGION_ANONYMOUS)
+gg.searchNumber("60;55;1.9618179e-44 ", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("55", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(300)
+gg.editAll("5", gg.TYPE_FLOAT)
+gg.clearResults()
+gg.toast("Zoom ×15 Activetad...")
+end
+
+function h9()
+gg.toast("⚠Sabar Para Cheater⚠")
+gg.clearResults()
+gg.setRanges(gg.REGION_ANONYMOUS)
+gg.searchNumber("60;9;1.9618179e-44 ", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("9", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.editAll("55", gg.TYPE_FLOAT)
+gg.toast("Zoom ×15 Off Activetad...")
+end
+
+function h4()
+gg.toast("⚠Sabar Para Cheater⚠")
+gg.clearResults()
+gg.setRanges(gg.REGION_BAD)
+gg.searchNumber("0.7576~0.7579", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("0.7576~0.7579", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(100)
+gg.editAll("99999", gg.TYPE_FLOAT)
+gg.clearResults()
+gg.toast("Signal Gun Positioning Activetad...")
+end
+
+function h5()
+gg.toast("⚠Sabar Para Cheater⚠")
+gg.clearResults()
+gg.setRanges(gg.REGION_BAD)
+gg.searchNumber("3.75000119209;2;2.00000023842;2.00000047684;2.7506108284;3", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("3", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(30)
+gg.editAll("417", gg.TYPE_FLOAT)
+gg.toast("White Landscape Activetad...")
+end
+
+function h6()
+gg.toast("⚠Sabar Para Cheater⚠")
+gg.clearResults()
+gg.setRanges(gg.REGION_BAD)
+gg.searchNumber("3.75000119209;2;2.00000023842;2.00000047684;2.7506108284;3", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("3", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(30)
+gg.editAll("888", gg.TYPE_FLOAT)
+gg.toast("Black Landscape Activetad...")
+end
+
+function J()
+
+menu10 = gg.multiChoice({
+"🐳Super Anti Shake",
+"🐳Medium AimBot 2",
+"🐳Speed Hack Fast",
+"🐳Speed Hack Normal",
+"🐳Wallshot (TEST)",
+"🐳Big Head",
+"🐳Multi Jump On",
+"🐳Multi Jump Off",
+"🐳High Jump & Fly",
+"🐳Player Model Small",
+"🐳Player Model Big",
+"🐳TPP Broad View 6th",
+"🐳TPP Broad View 9th",
+"🐳TPP Broad View 15th",
+
+'   [⏪BACK⏪]   '
+}, nill, "🚦GAME MENU 🚦")
+if menu10 == nil then
+else
+if menu10[1] == true then i1() end
+if menu10[2] == true then i2() end
+if menu10[3] == true then i3() end
+if menu10[4] == true then i4() end
+if menu10[5] == true then i5() end
+if menu10[6] == true then i6() end
+if menu10[7] == true then i7() end
+if menu10[8] == true then i8() end
+if menu10[9] == true then i9() end
+if menu10[10] == true then i10() end
+if menu10[11] == true then i11() end
+if menu10[12] == true then i12() end
+if menu10[13] == true then i13() end
+if menu10[14] == true then i14() end
+
+if menu10[15] == true then F() end
+end
+XGCK= 1
+end
+
+function i1()
+gg.toast("⚠Sabar Para Cheater⚠")
+gg.clearResults()
+gg.setRanges(gg.REGION_ANONYMOUS)
+gg.toast("mulai super anti goyang")
+gg.searchNumber("0.2~0.3;53;30;1::", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("0.2~0.3;1::", gg.TYPE_FLOAT)
+gg.getResults(200)
+gg.editAll("1.4012985e-45", gg.TYPE_FLOAT)
+gg.toast("Super Anti Shake Activetad...")
+end
+
+function i2()
+gg.toast("⚠Sabar Para Cheater⚠")
+gg.setRanges(gg.REGION_ANONYMOUS)
+gg.searchNumber("36;1065353216;50528513;1203982336:", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("1065353216", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(10)
+gg.editAll("1,090,519,040", gg.TYPE_DWORD)
+gg.clearResults()
+gg.toast("Medium AimBot 2 Activetad...")
+end
+
+function i3()
+gg.toast("⚠Sabar Para Cheater⚠")
+gg.clearResults()
+gg.searchNumber("999", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.clearResults()
+gg.setRanges(gg.REGION_CODE_APP)
+gg.searchNumber("10.90734863281;0.00999999978", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("10.9073486328", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(300)
+gg.editAll("10.001", gg.TYPE_FLOAT)
+gg.clearResults()
+gg.toast("Speed Hack Fast Activetad...")
+end
+
+function i4()
+gg.toast("⚠Sabar Para Cheater⚠")
+gg.clearResults()
+gg.setRanges(gg.REGION_ANONYMOUS)
+gg.searchNumber("0;7.0064923e-45;1;100;1;2,500,000,000.0;0.10000000149;88", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("1", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(100)
+gg.editAll("1.7", gg.TYPE_FLOAT)
+gg.clearResults()
+gg.toast("Speed Hack Normal Activetad...")
+end
+
+function i5()
+gg.toast("⚠Sabar Para Cheater⚠")
+gg.setRanges(gg.REGION_C_BSS)
+gg.clearResults()
+gg.searchNumber("869,711,765D;2;1::55", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("2", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(2)
+gg.editAll("-10", gg.TYPE_FLOAT)
+gg.clearResults()
+gg.toast("Wallshot (TEST) Activetad...")
+end
+
+function i6()
+gg.toast("⚠Sabar Para Cheater⚠")
+gg.searchNumber("88.50576019287;87.27782440186;1::50", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(100)
+gg.editAll("3", gg.TYPE_FLOAT)
+gg.toast("Big Head Activetad...")
+end
+
+function i7()
+gg.toast("⚠Sabar Para Cheater⚠")
+gg.clearResults()
+gg.setRanges(gg.REGION_ANONYMOUS)
+gg.searchNumber("-0.70710676908F;0.70710670948F;64.0F;128D;1D::512", gg.TYPE_WORD | gg.TYPE_DOUBLE | gg.TYPE_QWORD | gg.TYPE_DWORD | gg.TYPE_BYTE | gg.TYPE_XOR | gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("1", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(1995)
+gg.editAll("2", gg.TYPE_DWORD)
+gg.clearResults()
+gg.toast("Multi Jump On Activetad...")
+end
+
+function i8()
+gg.toast("⚠Sabar Para Cheater⚠")
+gg.clearResults()
+gg.setRanges(gg.REGION_ANONYMOUS)
+gg.searchNumber("-0.70710676908F;0.70710670948F;64.0F;128D;2D::512", gg.TYPE_WORD | gg.TYPE_DOUBLE | gg.TYPE_QWORD | gg.TYPE_DWORD | gg.TYPE_BYTE | gg.TYPE_XOR | gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("2", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(1995)
+gg.editAll("1", gg.TYPE_DWORD)
+gg.clearResults()
+gg.toast("Multi Jump Off Activetad...")
+end
+
+function i9()
+gg.toast("⚠Sabar Para Cheater⚠")
+gg.clearResults()
+gg.setRanges(gg.REGION_ANONYMOUS)
+gg.searchNumber("0;7.0064923e-45;1;100;1;2,500,000,000.0;0.10000000149;88", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("1", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(100)
+gg.editAll("2", gg.TYPE_FLOAT)
+gg.toast("")
+gg.clearResults()
+gg.setRanges(gg.REGION_ANONYMOUS)
+gg.searchNumber("1;-0.70710676908;0.70710670948;64;1.793662e-43;1.4012985e-45;1D;1D::", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("1.4012985e-45", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(9999)
+gg.editAll("999", gg.TYPE_FLOAT)
+gg.clearResults(100)
+gg.searchNumber("0.03E;0.6E;1.0E;0.5E::512", gg.TYPE_DOUBLE, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("1", gg.TYPE_DOUBLE, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(100)
+gg.editAll("0", gg.TYPE_DOUBLE)
+gg.toast("High Jump & Fly Activetad...")
+end
+
+function i10()
+gg.toast("⚠Sabar Para Cheater⚠")
+gg.clearResults()
+gg.searchNumber("3.0828566e-44;88;88;1;1;1", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("1", gg.TYPE_FLOAT, false)
+gg.getResults(50)
+gg.editAll("0.5", gg.TYPE_FLOAT)
+gg.toast("Player Model Small Activetad...")
+end
+
+function i11()
+gg.toast("⚠Sabar Para Cheater⚠")
+gg.clearResults()
+gg.searchNumber("3.0828566e-44;88;88;1;1;1", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("1", gg.TYPE_FLOAT, false)
+gg.getResults(50)
+gg.editAll("1.28", gg.TYPE_FLOAT)
+gg.toast("Player Model Big Activetad...")
+end
+
+function i12()
+gg.toast("⚠Sabar Para Cheater⚠")
+gg.setRanges(gg.REGION_ANONYMOUS)
+gg.clearResults()
+gg.searchNumber("220;178;15 ", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("220", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(300)
+gg.editAll("438", gg.TYPE_FLOAT)
+gg.clearResults()
+gg.toast("TPP Broad View 6th Activetad...")
+end
+
+function i13()
+gg.toast("⚠Sabar Para Cheater⚠")
+gg.setRanges(gg.REGION_ANONYMOUS)
+gg.clearResults()
+gg.searchNumber("220;178;15 ", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("220", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(300)
+gg.editAll("657", gg.TYPE_FLOAT)
+gg.clearResults()
+gg.toast("TPP Broad View 9th Activetad...")
+end
+
+function i14()
+gg.toast("⚠Sabar Para Cheater⚠")
+gg.setRanges(gg.REGION_ANONYMOUS)
+gg.clearResults()
+gg.searchNumber("220;178;15 ", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("220", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(300)
+gg.editAll("1200", gg.TYPE_FLOAT)
+gg.clearResults()
+gg.toast("TPP Broad View 15th Activetad...")
+end
+
+function K()
+
+menu11 = gg.multiChoice({
+"🐳Jeep Speed",
+"🐳Jeep Climbing",
+"🐳Jeep Underwater",
+"🐳Buggy Though The Wall",
+"🐳Jeep Acceleration",
+"🐳Car Wall",
+
+'   [⏪BACK⏪]   '
+}, nill, "🚦GAME MENU 🚦")
+if menu11 == nil then
+else
+if menu11[1] == true then j1() end
+if menu11[2] == true then j2() end
+if menu11[3] == true then j3() end
+if menu11[4] == true then j4() end
+if menu11[5] == true then j5() end
+if menu11[6] == true then j6() end
+
+if menu11[7] == true then F() end
+end
+XGCK= 1
+end
+
+function j1()
+gg.toast("⚠Sabar Para Cheater⚠")
+gg.clearResults()
+gg.setRanges(gg.REGION_ANONYMOUS)
+gg.searchNumber("0.647058857", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(10)
+gg.editAll("-999", gg.TYPE_FLOAT)
+gg.toast("Jeep Speed Activetad...")
+end
+
+function j2()
+gg.toast("⚠Sabar Para Cheater⚠")
+gg.clearResults()
+gg.searchNumber("44;0.4:6::1", gg.TYPE_DOUBLE, false, gg.SIGN_EQUAL, 0, -1)
+gg.clearResults()
+gg.searchNumber("2,139,095,040D", gg.TYPE_DOUBLE, false, gg.SIGN_EQUAL, 0, -1)
+gg.clearResults()
+gg.searchNumber("0.1F;0.2:3D::3", gg.TYPE_DOUBLE, false, gg.SIGN_EQUAL, 0, -1)
+gg.clearResults()
+gg.searchNumber("12;14:21:8F:1960.3::9", gg.TYPE_DOUBLE, false, gg.SIGN_EQUAL, 0, -1)
+gg.clearResults()
+gg.searchNumber("2;-120;-300", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("2", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(10)
+gg.editAll("9999", gg.TYPE_FLOAT)
+gg.toast("Jeep Climbing Activetad...")
+end
+
+function j3()
+gg.toast("⚠Sabar Para Cheater⚠")
+gg.searchNumber("150;85;45;-129;-85", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResultCount()
+gg.searchNumber(45, gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResultCount()
+gg.getResults(100)
+gg.editAll("99996", gg.TYPE_FLOAT)
+gg.clearResults()
+gg.toast("Jeep Underwater Activetad...")
+end
+
+function j4()
+gg.toast("⚠Sabar Para Cheater⚠")
+gg.setRanges(gg.REGION_ANONYMOUS)
+gg.searchNumber("982,622,900;1,956,496,814;1,112,014,847;1,103,626,239", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("1,956,496,814", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(50)
+gg.editAll("1,091,567,616", gg.TYPE_DWORD)
+gg.clearResults()
+gg.toast("Buggy Though The Wall Activetad...")
+end
+
+function j5()
+gg.toast("⚠Sabar Para Cheater⚠")
+gg.clearResults()
+gg.setRanges(gg.REGION_ANONYMOUS)
+gg.searchNumber("0.647058857", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(10)
+gg.editAll("-999", gg.TYPE_FLOAT)
+gg.clearResults()
+gg.toast("Jeep Acceleration Activetad...")
+end
+
+function j6()
+gg.toast("⚠Sabar Para Cheater⚠")
+gg.setRanges(gg.REGION_BAD)
+gg.searchNumber("304.00009155273;3.7615819e-37;2;-1;1;-127::240", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("2", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(30)
+gg.editAll("120", gg.TYPE_FLOAT)
+gg.clearResults()
+gg.toast("Car Wall Activetad...")
+end
+
+
+function CONT()
+ menu31 = gg.choice({
+"🔷 Mail: vinoandri21@gmail.com",
+"🔷 Youtube: GMG SIGIT",
+"🔷 WhatsApp: 02185899769",
+"   _____🔙BACK MENU📖_____   ",
+}, nil, "PUBG MOBILE 0.8.0 🎮 ◙╬══✘✘✘GAME✘✘✘═══╬◙ VIP.V1 🎮")
+if menu31 == 1 then z1() end
+if menu31 == 2 then z2() end
+if menu31 == 3 then z3() end
+if menu31 == 4 then Main() end
+XGCK = 1     
+end         
+
+function Exit()
+gg.toast("TANK YOU FOR USING MY SCRIPT")
+print('SCRIPT VIP.V1')
+os.exit()
+end
+
+cs = "Sigit Gaming"
+while true do
+  if gg.isVisible(true) then
+  XGCK = 1
+  gg.setVisible(false)
+  end
+  gg.clearResults()
+  if XGCK == 1 then
+  Main()
+ end
+end
+
